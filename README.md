@@ -9,7 +9,7 @@ Role: Student; Bachelor of Computer Applications (BCA)
 
 📌 Programs & Implementations
 
- 1.Array Operations
+  1.Array Operations
 . "insert-array.c" – Insert an element at a specific position in an array.
 . "delete-array.c" – Delete an element from a specific position in an array.
 . "reverse-array.c" – Reverse the elements of an array.
