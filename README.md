@@ -42,9 +42,12 @@ Role: Student; Bachelor of Computer Applications (BCA)
 
 🛠️ Technologies Used
 
-. C Programming Language
-. Visual Studio Code
-. GCC Compiler
+- C Programming Language
+
+- Visual Studio Code
+
+- GCC Compiler
+
 ▶️ How to Run
 
 1. Clone or download this repository.
