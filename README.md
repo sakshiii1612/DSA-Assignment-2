@@ -11,22 +11,33 @@ Role: Student; Bachelor of Computer Applications (BCA)
 📌 Programs & Implementations
 
    1. Array Operations
+
 . "insert-array.c" – Insert an element at a specific position in an array.
+
 . "delete-array.c" – Delete an element from a specific position in an array.
+
 . "reverse-array.c" – Reverse the elements of an array.
+
 . "nextgreater-array.c" – Find the next greater element in an array.
 
  2. Searching Algorithms
+
 "linearsearch-array.c" – Implement Linear Search.
+
 . "binarysearch-array.c" – Implement Binary Search.
 
  3. Stack Operations
+
 . "stack-array.c" – Implement Stack using an array.
+
 . "push and pop-LinkedList's" – Implement Push and Pop operations using a Linked List.
+
 . "reversestring-stack.c" – Reverse a string using Stack.
 
  4. Queue Operations
+
 . "enqueue and dequeue-array.c" – Implement Enqueue and Dequeue operations using an array.
+
 . "queue-LinkedList's" – Implement Queue using a Linked List.
 
 🛠️ Technologies Used
